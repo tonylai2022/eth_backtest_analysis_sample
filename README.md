@@ -4,7 +4,7 @@ This is a data analytics project to backtest the strategy of trading Crypto usin
 
 ## Step 1 - Define the question
 
-My question of this project is what is the factor that can help me build an effective and profitable trading strategy for crypto e.g. ETH.
+My question of this project is what factor can help me build an effective and profitable trading strategy for crypto e.g. ETH.
 
 With this analysis, I am going to find out if the factor I choose is useful or not e.g. the number of active addresses of ETH, to trade ETH.
 
