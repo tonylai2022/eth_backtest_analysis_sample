@@ -10,7 +10,7 @@ from util import util_clean_data
 from facade.test_crypto_price_data_service import CryptoPriceDataService
 
 # init
-GN_API_KEY: str = '2CTWXIfSgi2GrskzkH6Wxlcw9aA'
+GN_API_KEY: str = ''
 GN_API_BASE_PATH: str = 'https://api.glassnode.com/v1/metrics'
 
 
