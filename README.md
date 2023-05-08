@@ -1,6 +1,6 @@
 # eth_backtest_analysis_sample
 
-This is a data analytics project to backtest the strategy of trading Crypto using Python, Biannce API and Glassnode API.
+This is a data analytics project to backtest the strategy of trading Crypto using Python, Binance API and Glassnode API.
 
 ## Step 1 - Define the question
 
