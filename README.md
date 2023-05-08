@@ -56,7 +56,7 @@ Then check the heatmap to understand if this strategy can be applied to real sit
 
 Some requirements for a good daily strategy:
 
-   * Sharpe ratio 1.5 - 2 
+   * Sharpe ratio 1.5 - 2  
 
    * Calmar ratio 2 - 2.5
 
