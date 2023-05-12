@@ -117,9 +117,9 @@ class Backtester:
         """run regression: looking at alpha, beta, p-value, R-square and 
         correlation
         
-        eg: TVS pct change on ETH return
-        alpha = -0.0002
-        beta = 0.9563
+        eg: Number of active addresses change on ETH return
+        alpha = 0.0022
+        beta = 0.0101
         
         y = mx + c
         y = beta*x + alpha 
@@ -127,12 +127,7 @@ class Backtester:
         beta: market risk
         alpha: additional return
         
-        ETH return = 0.9563*TVS pct chg - 0.0002
-        
-        vs
-        
-        388 return = 0.5305*2800 return
-        388 alpha = 0
+        ETH return = 0.0101*Number of active addresses change + 0.0022
         
         p-value is used to do statistical test
         for testing statistical significance
